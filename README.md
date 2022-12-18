@@ -3,4 +3,8 @@ With the rise of remote work and hybrid work environments, it is not easy to acc
 
 ![Figure 1](https://raw.githubusercontent.com/husseinahmed-dev/SSN-Project---VPNs-OpenVPN-Cisco-AnyConnect-Custom-VPN-Solution-/main/Figure-1.png)
 
+![Figure 2](https://raw.githubusercontent.com/husseinahmed-dev/SSN-Project---VPNs-OpenVPN-Cisco-AnyConnect-Custom-VPN-Solution-/main/Figure-8.png)
+
+![Figure 3](https://raw.githubusercontent.com/husseinahmed-dev/SSN-Project---VPNs-OpenVPN-Cisco-AnyConnect-Custom-VPN-Solution-/main/Figure-9.png)
+
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/0kll3Y6Qpa0/0.jpg)](http://www.youtube.com/watch?v=0kll3Y6Qpa0 "SSN Project - Virtual Private Networks")
